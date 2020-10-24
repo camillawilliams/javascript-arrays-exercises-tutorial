@@ -82,7 +82,7 @@
         {
             "slug": "05.1-Loop-from-one-to-seventeen",
             "title": "05.1-Loop-from-one-to-seventeen",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-Loop-from-one-to-seventeen",
             "translations": [
                 "es",
@@ -93,7 +93,7 @@
         {
             "slug": "05.2-Loop-from-seven-to-twelve",
             "title": "05.2-Loop-from-seven-to-twelve",
-            "done": false,
+            "done": true,
             "path": "exercises/05.2-Loop-from-seven-to-twelve",
             "translations": [
                 "es",
@@ -104,7 +104,7 @@
         {
             "slug": "05.3-Add-items-to-array",
             "title": "05.3-Add-items-to-array",
-            "done": false,
+            "done": true,
             "path": "exercises/05.3-Add-items-to-array",
             "translations": [
                 "es",
@@ -115,7 +115,7 @@
         {
             "slug": "06.1-Loop-Array",
             "title": "06.1-Loop-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/06.1-Loop-Array",
             "translations": [
                 "es",
@@ -126,7 +126,7 @@
         {
             "slug": "06.2-Loop-from-the-top",
             "title": "06.2-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/06.2-Loop-from-the-top",
             "translations": [
                 "es",
@@ -137,7 +137,7 @@
         {
             "slug": "06.3-Loop-adding-two",
             "title": "06.3-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/06.3-Loop-adding-two",
             "translations": [
                 "es",

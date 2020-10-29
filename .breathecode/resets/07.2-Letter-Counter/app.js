@@ -2,8 +2,5 @@ let par = "Lorem ipsum dolor sit amet consectetur adipiscing elit Curabitur eget
 let counts = {};
 
 // your code here
-for(var i = par.length-1 ;0 <= i; i++ ) {
-   
-}
 
-console.log(par[i]);
+console.log(counts);
